@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **hasanmahmudul020@gmail.com**
 
-- ⚡ Fun fact **popcorn & movie,series**
+- ⚡ Fun fact **love to watch movie & series with popcorn**
+
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
