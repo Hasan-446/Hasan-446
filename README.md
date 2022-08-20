@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
-<h3 align="center">A passionate frontend developer and a tech enthusiast</h3>
-
-- 🔭 I’m currently working **on personal projects to gain knowledge**
+<h3 align="center">A passionate frontend developer who is eager to learn and a tech enthusiast</h3>
 
 - 🌱 I’m currently learning **react.js & node.js**
 
