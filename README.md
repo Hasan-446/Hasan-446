@@ -13,7 +13,7 @@
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasan-446&show_icons=true&locale=en&layout=compact" alt="hasan-446" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasan-446&show_icons=true&locale=en&layout=compact" alt="hasan-446" /></p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
