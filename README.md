@@ -11,10 +11,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasan-446&show_icons=true&locale=en&layout=compact" alt="hasan-446" /></p>
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/mahmudul020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmudul020" height="30" width="40" /></a>
