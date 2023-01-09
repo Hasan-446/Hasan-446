@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
 <h3 align="center">A passionate Full-Stack developer who is eager to learn and a tech enthusiast</h3>
 
-- 🌱 I’m currently working on **react.js & node.js**
+- 🌱 I’m currently working on **React & Node.js**
 
 - 👯 I’m looking to collaborate **on projects and web Dev stuff**
 
